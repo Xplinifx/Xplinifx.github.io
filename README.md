@@ -1,4 +1,5 @@
-# Xplinifx de king
-is very cool man
+# Xplinifx's very awseome Test Site!
+This github site is used for testing
+games that I can try to make
 #
-currently testing stuff BOI
+Yep
